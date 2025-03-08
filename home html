@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>home</title>
+    </head>
+    <body>
+        <hl>Valorant</hl>
+        <p>
+            Valorant es un juego de disparo tactico de 5v5 donde un equipo ataca y el otro defiende.Los jugadores
+            eligen agentes con habiliades unicas y el objetivo es ganar rondas al plantar y desactivar una bomba
+        </p>
+        <img src="https://images.wallpapersden.com/image/download/valorant-hd-gaming_bWZpaGyUmZqaraWkpJRmbmdlrWZlbWU.jpg"
+        height="400px" width="800px" alt="Valorant"/>
+        <p>
+            Ademas de las mecanicas principal de ataque y defensa. Valorant tambien se enfocaen el trabajo
+            en equipo y estrategia y el uso inteligente de las habilidades de cada agente. Cada personaje
+            tiene poderes especiales que pueden cambiar el curso de la partida, como invisibilidad, curacion,
+            trampas, etc.
+            El juego exige buena punteria y coordinacion, y las partidas requieren tacticas para controlar
+            el mapa y anticipar los movimientos del enemig
+        </p>
+    </body>
+    </html>
